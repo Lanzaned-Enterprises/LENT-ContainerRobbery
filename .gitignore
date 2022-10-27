@@ -1,0 +1,5 @@
+
+server/*.lua
+client/*.lua
+shared/*.lua
+fxmanifest.lua
