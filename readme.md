@@ -2,8 +2,9 @@
 *Want some exclusive items that might not be for sale? Rip merryweather of their own imports? Here is your chance!*
 
 ## Information
-*This Container Robbery script was designed as per request of https://merp.lanzaned.com/ however the amount of work put behind this script has put it at a reasonable price of $5EUR The locations of the containers, Loot, Timer, Discord & Police Callout Function are all configurable in the `shared/sh_config.lua` file.*
+*This Container Robbery script was designed as per request of https://merp.lanzaned.com/ however the amount of work put behind this script has put it at a reasonable price of $5EUR The locations of the containers, Loot, Timer, Discord & Police Callout Function are all configurable in the `shared/sh_config.lua` file.*<br>
 
+*This script can be purchased here: https://lanzaned-development.tebex.io/package/5354665*
 ## Disclaimer
 - To fully set up this heist you will have to make edits to your inventory. In most cases this event should be the one being edited: `inventory:server:OpenInventory` I won't be able to tell you where to look in what resource.
 - You will need some minimal knowledge on where to paste the snippets below to get the script to function
